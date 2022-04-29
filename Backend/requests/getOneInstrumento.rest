@@ -1,0 +1,1 @@
+GET http://localhost:3001/instrumentos/6266cc0aeda56a40fe9f33c5

@@ -1,0 +1,8 @@
+PUT http://localhost:3001/instrumentos/6266cc0aeda56a40fe9f33c5
+Content-Type: application/json
+
+{
+    
+    "marca": "marca2",
+    "modelo": "modelo2"
+}
